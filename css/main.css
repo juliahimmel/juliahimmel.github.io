@@ -1,6 +1,28 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
+/* /* Here I put CSS for my first typography blog post
+*/
+
+.quote {
+  border-bottom: 6px solid #000;
+  padding-bottom: 6px;
+}
+
+.quote_body {
+
+  font-size: 1.8em;
+  line-height: 1.2em;
+  font-family: 'Crimson Text', 'Georgia', serif;
+  color: #000;
+  text-indent: -0.38em;
+  font-weight:400;
+}
+
+
+/* here is where it ends */
+
+
 * {
   margin: 0;
   padding: 0;
