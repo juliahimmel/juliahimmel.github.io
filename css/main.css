@@ -1,26 +1,7 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
-/* /* Here I put CSS for my first typography blog post
-*/
 
-.quote {
-  border-bottom: 6px solid #000;
-  padding-bottom: 6px;
-}
-
-.quote_body {
-
-  font-size: 1.8em;
-  line-height: 1.2em;
-  font-family: 'Crimson Text', 'Georgia', serif;
-  color: #000;
-  text-indent: -0.38em;
-  font-weight:400;
-}
-
-
-/* here is where it ends */
 
 
 * {
@@ -211,8 +192,8 @@ a:visited { color: #205caa; }
 .post-content h1,
 .post-content h2,
 .post-content h3,
-.post-content h4,
-.post-content h5,
+/*.post-content h4,
+*/.post-content h5,
 .post-content h6 {
   line-height: 1;
   font-weight: 300;
@@ -425,3 +406,20 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+/* /* Here I put CSS for my first typography blog post
+*/
+
+
+.quote_body {
+
+  font-size: 1.2em;
+  line-height: 1.2em;
+  font-family: 'Crimson Text', 'Georgia', serif;
+  color: #000;
+  text-indent: -0.33em;
+  font-weight:400;
+}
+
+
+/* here is where it ends */
